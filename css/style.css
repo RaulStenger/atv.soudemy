@@ -226,51 +226,52 @@ footer ul li {
             MOBILE
 ============================*/
 @media (max-width: 600px) {
-header {
-    display: block;
-    text-align: center;
-}
-header h1 {
-    margin: 3vw 0 3vw 0;
-}
-header nav ul {
-    flex-wrap: wrap;
-    justify-content: center;
-}
-header nav ul li {
-    width: 40%;
-    margin: 3vw 0 3vw 0;
-}
-}
-main section.banner h2 {
-    margin: 0 5vw 3vw 5vw;
-}
-main section.products p.segundo {
-    margin: 0 1vw 0 1vw;
-}
-main section.products ul li {
-    width: 85%;
-}
-main section.build div.dividir {
-    display: block;
-    text-align: center;
-}
-main section.build div.dividir div h3 {
-    width: 90%;
-}
-main section.build div.dividir p.imagem img{
-    width: 85vw;
-} 
-main section.build div.dividir div p {
-    width: 90%;
-}
-main section.build p.terceiro {
-    margin: 2vw 5vw 0 5vw;
-}
-footer {
-    display: block;
-    text-align: center;
-}
-footer ul {
-    justify-content: center;
+    header {
+        display: block;
+        text-align: center;
+    }
+    header h1 {
+        margin: 3vw 0 3vw 0;
+    }
+    header nav ul {
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+    header nav ul li {
+        width: 40%;
+        margin: 3vw 0 3vw 0;
+    }
+
+    main section.banner h2 {
+        margin: 0 5vw 3vw 5vw;
+    }
+    main section.products p.segundo {
+        margin: 0 1vw 0 1vw;
+    }
+    main section.products ul li {
+        width: 85%;
+    }
+    main section.build div.dividir {
+        display: block;
+        text-align: center;
+    }
+    main section.build div.dividir div h3 {
+        width: 90%;
+    }
+    main section.build div.dividir p.imagem img{
+        width: 85vw;
+    } 
+    main section.build div.dividir div p {
+        width: 90%;
+    }
+    main section.build p.terceiro {
+        margin: 2vw 5vw 0 5vw;
+    }
+    footer {
+        display: block;
+        text-align: center;
+    }
+    footer ul {
+        justify-content: center;
+    }
 }
